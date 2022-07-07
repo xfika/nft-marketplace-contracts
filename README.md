@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/streamr-dev/marketplace-contracts.svg?branch=master)](https://travis-ci.com/streamr-dev/marketplace-contracts)
+[![Build Status](https://travis-ci.com/streamr-dev/marketplace-contracts.svg?branch=master)](https://github.com/xForceDiamond/nft-marketplace-contracts)
 
 # Recommended setup
 * [VSCode](https://code.visualstudio.com/) with [*solidity* plugin](https://github.com/juanfranblanco/vscode-solidity/) (install through VSCode extensions) **OR**
