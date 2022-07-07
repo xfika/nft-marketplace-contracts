@@ -1,5 +1,5 @@
 {
-  "name": "marketplace-contracts",
+  "name": "nft-marketplace-contracts",
   "version": "1.0.0",
   "description": "Smart contracts for Streamr Marketplace",
   "scripts": {
